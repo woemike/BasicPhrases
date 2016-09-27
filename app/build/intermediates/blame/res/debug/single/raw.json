@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/build/intermediates/res/merged/debug/raw/welcome.m4a",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/src/main/res/raw/welcome.m4a"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/build/intermediates/res/merged/debug/raw/doyouspeakenglish.m4a",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/src/main/res/raw/doyouspeakenglish.m4a"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/build/intermediates/res/merged/debug/raw/hello.m4a",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/src/main/res/raw/hello.m4a"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/build/intermediates/res/merged/debug/raw/ilivein.m4a",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/src/main/res/raw/ilivein.m4a"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/build/intermediates/res/merged/debug/raw/mynameis.m4a",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/src/main/res/raw/mynameis.m4a"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/build/intermediates/res/merged/debug/raw/howareyou.m4a",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/src/main/res/raw/howareyou.m4a"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/build/intermediates/res/merged/debug/raw/goodevening.m4a",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/src/main/res/raw/goodevening.m4a"
+    },
+    {
+        "merged": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/build/intermediates/res/merged/debug/raw/please.m4a",
+        "source": "/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BasicPhrases/app/src/main/res/raw/please.m4a"
+    }
+]
